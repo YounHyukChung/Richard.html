@@ -1,0 +1,10 @@
+javascript
+
+01. document.write(''); 동적
+02. onclick 등을 이용한 상호작용 event
+03. webpage 검사>> console >> '???'.length
+     >> 글자를 문자로 바꿔 글자수를 알려줌
+     >> alert('???'.length) >> 글자수가 경고창으로 도출
+ex4에서 head부분 style은 왜 {}괄호로 사용해야되는가??
+04. class는 온점///id는 #사용 -class 위에 id사용-	
+	ex-<span id='???' class='xxx'>1234</span>
